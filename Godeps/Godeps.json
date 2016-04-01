@@ -1,0 +1,49 @@
+{
+	"ImportPath": "github.com/sofuture/kubernotes",
+	"GoVersion": "go1.6",
+	"Deps": [
+		{
+			"ImportPath": "github.com/coreos/etcd/client",
+			"Comment": "v2.2.5",
+			"Rev": "bc9ddf260115d2680191c46977ae72b837785472"
+		},
+		{
+			"ImportPath": "github.com/coreos/etcd/pkg/pathutil",
+			"Comment": "v2.2.5",
+			"Rev": "bc9ddf260115d2680191c46977ae72b837785472"
+		},
+		{
+			"ImportPath": "github.com/coreos/etcd/pkg/types",
+			"Comment": "v2.2.5",
+			"Rev": "bc9ddf260115d2680191c46977ae72b837785472"
+		},
+		{
+			"ImportPath": "github.com/coreos/go-systemd/dbus",
+			"Comment": "v4-42-g7b2428f",
+			"Rev": "7b2428fec40033549c68f54e26e89e7ca9a9ce31"
+		},
+		{
+			"ImportPath": "github.com/coreos/go-systemd/unit",
+			"Comment": "v4-42-g7b2428f",
+			"Rev": "7b2428fec40033549c68f54e26e89e7ca9a9ce31"
+		},
+		{
+			"ImportPath": "github.com/godbus/dbus",
+			"Comment": "v3-20-ge2cf281",
+			"Rev": "e2cf28118e66a6a63db46cf6088a35d2054d3bb0"
+		},
+		{
+			"ImportPath": "github.com/ugorji/go/codec",
+			"Rev": "f1f1a805ed361a0e078bb537e4ea78cd37dcf065"
+		},
+		{
+			"ImportPath": "github.com/voxelbrain/goptions",
+			"Comment": "2.5.11",
+			"Rev": "26cb8b04692384f4dc269de3b5fcf3e2ef78573e"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "d5cd7348bfebdf7dbb6dbb18fa488525f9024293"
+		}
+	]
+}

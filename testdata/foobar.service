@@ -1,0 +1,11 @@
+[Unit]
+Description=foobar service
+
+[Service]
+ExecStart=/bin/bash -c "while true; do echo 'foo'; sleep 1; done"
+MemoryLimit=1M
+CPUShares=10
+BlockIOWeight=10
+
+[Install]
+WantedBy=multi-user.target
