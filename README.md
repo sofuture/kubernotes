@@ -5,4 +5,3 @@ A toy cluster scheduler that is definitely not Kubernetes. Or Fleet, for that ma
 ## Why?
 
 Great question!
-
